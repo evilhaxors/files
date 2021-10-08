@@ -4,4 +4,4 @@ printf "\n\033[32mremember password:\033[36m ghp_SAGVIQTOZdRtdVoN7rXRZiASOynibg1
 git add .
 git commit -m "done successfully"
 git push
-git config credential.helper store
+#git config credential.helper store
